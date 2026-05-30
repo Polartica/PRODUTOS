@@ -4350,5 +4350,141 @@ const dados = [
   "TIPOV": "MARKETPLACE",
   "QTD PALLET": 294,
   "LASTRO": 294
- }
+ },
+
+ {
+    "COD PRODUTO": 33641,
+    "NOME": "BALLANTINES 10 YEARS GARRAFA VIDRO 1 L",
+    "EMBALAGEM": "",
+    "TIPO": "MKT",
+    "TIPOV": "",
+    "QTD PALLET": 960,
+    "LASTRO": 0
+  },
+  {
+    "COD PRODUTO": 24289,
+    "NOME": "ELMA CHIPS AMENDOIM JAPONES PCT 145G CX C/16",
+    "EMBALAGEM": "",
+    "TIPO": "MKT",
+    "TIPOV": "",
+    "QTD PALLET": 360,
+    "LASTRO": 100
+  },
+  {
+    "COD PRODUTO": 35324,
+    "NOME": "ELMA CHIPS AMENDOIM OVINHO PCT 145G CX C26",
+    "EMBALAGEM": "",
+    "TIPO": "MKT",
+    "TIPOV": "",
+    "QTD PALLET": 360,
+    "LASTRO": 100
+  },
+  {
+    "COD PRODUTO": 35686,
+    "NOME": "ELMA CHIPS RUFFLES SAL PCT 68G CX C25",
+    "EMBALAGEM": "",
+    "TIPO": "MKT",
+    "TIPOV": "",
+    "QTD PALLET": 360,
+    "LASTRO": 100
+  },
+  {
+    "COD PRODUTO": 36034,
+    "NOME": "BUDWEISER LT 473ML SH C12 NP MULTIPACK",
+    "EMBALAGEM": "LATÃO 473",
+    "TIPO": "Cerveja",
+    "TIPOV": "OW",
+    "QTD PALLET": 220,
+    "LASTRO": 22
+  },
+  {
+    "COD PRODUTO": 37144,
+    "NOME": "BRAHMA CHOPP ZERO LT 473ML SH C12 NP",
+    "EMBALAGEM": "LATÃO 473",
+    "TIPO": "Cerveja",
+    "TIPOV": "OW",
+    "QTD PALLET": 220,
+    "LASTRO": 22
+  },
+  {
+    "COD PRODUTO": 35338,
+    "NOME": "BUDWEISER ZERO LT 473ML SH C/12 NPAL",
+    "EMBALAGEM": "LATÃO 473",
+    "TIPO": "Cerveja",
+    "TIPOV": "OW",
+    "QTD PALLET": 220,
+    "LASTRO": 22
+  },
+  {
+    "COD PRODUTO": 24410,
+    "NOME": "QUINTA DO MORGADO VINHO BRANCO SUAVE GFA VD 750 ML",
+    "EMBALAGEM": "",
+    "TIPO": "MKT",
+    "TIPOV": "",
+    "QTD PALLET": 840,
+    "LASTRO": 0
+  },
+  {
+    "COD PRODUTO": 24413,
+    "NOME": "QUINTA DO MORGADO VINHO BORDO MEIO SECO GFA VD 750 ML",
+    "EMBALAGEM": "",
+    "TIPO": "MKT",
+    "TIPOV": "",
+    "QTD PALLET": 840,
+    "LASTRO": 0
+  },
+  {
+    "COD PRODUTO": 36213,
+    "NOME": "NUTRATA  CARAMELO PCT 45G DISPLAY C12",
+    "EMBALAGEM": "",
+    "TIPO": "MKT",
+    "TIPOV": "",
+    "QTD PALLET": 360,
+    "LASTRO": 20
+  },
+  {
+    "COD PRODUTO": 36205,
+    "NOME": "NUTRATA YOPRO MORANGO CHOC BRANCO PCT 55G DISPLAY C12",
+    "EMBALAGEM": "",
+    "TIPO": "MKT",
+    "TIPOV": "",
+    "QTD PALLET": 360,
+    "LASTRO": 20
+  },
+  {
+    "COD PRODUTO": 36208,
+    "NOME": "NUTRATA YOPRO BARRA CHOCOLATE PCT 55G DISPLAY C12",
+    "EMBALAGEM": "",
+    "TIPO": "MKT",
+    "TIPOV": "",
+    "QTD PALLET": 360,
+    "LASTRO": 20
+  },
+  {
+    "COD PRODUTO": 36192,
+    "NOME": "NUTRATA BARRA WHEY GREGO BRIGADEIRO PCT 40G DISPLAY C12",
+    "EMBALAGEM": "",
+    "TIPO": "MKT",
+    "TIPOV": "",
+    "QTD PALLET": 360,
+    "LASTRO": 20
+  },
+  {
+    "COD PRODUTO": 36200,
+    "NOME": "NUTRATA BARRA WHEY  DULCE DE LECHE  PCT 40G DISPLAY C12",
+    "EMBALAGEM": "",
+    "TIPO": "MKT",
+    "TIPOV": "",
+    "QTD PALLET": 360,
+    "LASTRO": 20
+  },
+  {
+    "COD PRODUTO": 36203,
+    "NOME": "NUTRATA BARRA WHEY BROWNIE PCT 40G DISPLAY C12",
+    "EMBALAGEM": "",
+    "TIPO": "MKT",
+    "TIPOV": "",
+    "QTD PALLET": 360,
+    "LASTRO": 20
+  }
 ]
